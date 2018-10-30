@@ -1,31 +1,35 @@
 {
   "project_info": {
-    "project_number": "984140644677",
-    "firebase_url": "https://sendbird-sample.firebaseio.com",
-    "project_id": "sendbird-sample",
-    "storage_bucket": "sendbird-sample.appspot.com"
+    "project_number": "639565188502",
+    "firebase_url": "https://sendbirdpush-482af.firebaseio.com",
+    "project_id": "sendbirdpush-482af",
+    "storage_bucket": "sendbirdpush-482af.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:984140644677:android:abe06d49c04fba23",
+        "mobilesdk_app_id": "1:639565188502:android:abe06d49c04fba23",
         "android_client_info": {
           "package_name": "com.sendbird.android.sample"
         }
       },
       "oauth_client": [
         {
-          "client_id": "984140644677-75b8ti7rnl9ojhu930phht25emuifkki.apps.googleusercontent.com",
-          "client_type": 3
+          "client_id": "639565188502-5b4lqqb8806ehr5gjm5ssq9ta4un0e9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sendbird.android.sample",
+            "certificate_hash": "ad54458e8504d9c2efc04d619688a0a11ae265a0"
+          }
         },
         {
-          "client_id": "984140644677-ajrt7j1g982mntarduj22mlq1dberha0.apps.googleusercontent.com",
+          "client_id": "639565188502-35thq7mvedfm3n6u4r2p38cad1qpblvt.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDxYBEWhz5XUP8twJaGDE249SlEQUfalIc"
+          "current_key": "AIzaSyCNQkLD_RtuH59Rg-3-r2VfvKGeORXs8lg"
         }
       ],
       "services": {
@@ -33,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639565188502-35thq7mvedfm3n6u4r2p38cad1qpblvt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
